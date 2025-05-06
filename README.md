@@ -1,10 +1,5 @@
-[![GitHub - hwj20/mini\_compiler: using yacc and lex to make a simple C ...](https://tse2.mm.bing.net/th?id=OIP.RUuu88IbLMHBvJJhqgFvpQHaDt\&pid=Api)](https://github.com/hwj20/mini_compiler)
 
-Certainly! Based on your GitHub repository [0xzahed/Mini\_compiler](https://github.com/0xzahed/Mini_compiler), here's a comprehensive `README.md` file tailored for your project:
 
----
-
-```markdown
 # 🛠️ Mini Compiler
 
 A simple arithmetic expression compiler built using **Lex** and **Yacc** in **C**. This project performs lexical analysis and syntax parsing for basic arithmetic operations.
