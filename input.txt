@@ -1,0 +1,158 @@
+1 + 2
+5 - 3
+4 * 2
+10 / 2
+7 % 4
+2 ^ 3
+int x = 5
+int y = 3
+int z = 10
+x + y
+x * y
+z - x
+print(7)
+print(0)
+print(100)
+print("hello")
+print("world")
+print("test")
+print(true)
+print(false)
+int a = 1
+int b = 2
+print(a + b)
+print(b * 2)
+print(z)
+6 + 4
+8 - 2
+9 * 3
+12 / 4
+15 % 5
+3 ^ 2
+4 ^ 2
+print(5)
+print(6)
+print(7)
+print("basic")
+print("code")
+print("input")
+print(true)
+print(false)
+int c = 8
+int d = 9
+c + d
+c - d
+c * 2
+print(c)
+print(d)
+print(a)
+print(b)
+print(x)
+min(5, 3)
+max(5, 3)
+int x = 10
+int y = 20
+min(x, y)
+max(x, y)
+"hello" || "world"
+"test" || "case"
+"a" || "b"
+length("hello")
+length("test")
+length("a")
+x++
+x--
+y++
+y--
+
+print(x)
+print(y)
+a + c
+b + d
+z - c
+print(x + y)
+print(a)
+print(b)
+print(a * b)
+print(z)
+print(z / 2)
+"hi" ** 2
+"abc" ** 3
+substr("hello", 1, 3)
+substr("world", 0, 2)
+print(x < y)
+print(a > b)
+print(z < 10)
+int e = 15
+int f = 6
+e + f
+e - f
+f * 2
+
+print(e)
+print(f)
+print(e % 4)
+print(f ^ 2)
+print(min(e, f))
+print("e" || "f")
+print(length("example"))
+print("test" ** 2)
+e++
+f--
+print(max(a, b))
+print(min(c, d))
+print("done" || "!")
+print(x * y)
+print(a)
+print(b)
+int add(a, b) { return a + b; }
+add(3, 5)
+add(x, y)
+add(a, b)
+
+if (x < y) then x + y else x - y
+if (a > b) then a else b
+print(if (c < d) then c else d)
+switch (x) { case 5: 10 case 6: 20 default: 30 }
+switch (a) { case 1: "one" case 2: "two" default: "none" }
+switch (b) { case 2: true case 3: false default: true }
+print(switch (z) { case 10: 100 case 11: 200 default: 300 })
+print(x + add(a, b))
+print(min(add(5, 5), z))
+print("a" || if (x > y) then "b" else "c")
+
+e * add(a, b)
+f + add(x, y)
+print(e - add(c, d))
+print(max(add(a, b), z))
+print(substr("advanced", 2, 3))
+print("go" ** add(1, 2))
+print(x < add(a, b))
+print(add(e, f) > z)
+print(if (e < f) then "small" else "large")
+switch (add(2, 2)) { case 4: x + y case 5: x - y default: 0 }
+x++
+y--
+print(x)
+print(y)
+print(x)
+print(y)
+
+print("edge" || "case")
+print(max(min(x, y), min(a, b)))
+print(add(add(a, b), add(x, y)))
+print(if (add(a, b) < z) then add(x, y) else add(e, f))
+switch (c) { case 8: "eight" case 9: "nine" default: "other" }
+print("final" || "test")
+print(add(length("test"), min(x, y)))
+print(if (x > y) then true else false)
+print(e + f)
+print(a * b)
+print("end" || "!")
+int g = add(5, 5)
+int h = min(x, y)
+print(g)
+print(h)
+print(switch (h) { case 3: "three" case 4: "four" default: "other" })
+print(add(g, h))
+print("complete")
